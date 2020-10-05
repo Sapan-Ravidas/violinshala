@@ -18,7 +18,8 @@ require 'common.php';
 
         <div class="container-fluid about_background">
             <div class="container" id="about_content">
-                <h1>About Us:</h1>
+                <h1>For Hackoctober-Fest</h1>
+                <h3>About Us:</h3>
                 <p>The violin was first known in 16th-century Italy, with some further modifications occurring in the 18th and 19th centuries to give the instrument a more powerful sound and projection. In Europe, it served as the basis for the development of other stringed instruments used in Western classical music, such as the viola.</p><br><br>
 
                 <p>Here we provide different courses of lessions according to the level of the student.</p><br>
