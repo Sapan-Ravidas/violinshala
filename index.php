@@ -24,7 +24,7 @@ if(isset($_SESSION['email'])){
         <div id="content">
             <div id="banner">
             <div class="alert alert-warning text-center">
-                <strong>Warning! This website is made by the developer as his project work. The students who are interested to learn violin should not take this website seriously.</strong>
+                <strong>Warning! This website is made by the developer as his project work for HackOctober-Fest. The students who are interested to learn violin should not take this website seriously.</strong>
             </div>
                 <div class="container">
                     <center>
