@@ -7,7 +7,16 @@ body, h1, h2, h3, h4, h5, h6{
     font-weight: 700;
     font-family: "Lato","Helvetica Neue",Arial, Helvetica, sans-serif;
 }
-
+.navig{
+    background-color: #0f0f0f1e !important;
+    border-color: #0f0f0f00 !important;
+}
+.nav-links{
+    color: whitesmoke !important;
+}
+.nav-links:hover{
+    color: white !important;
+}
 #content{
     min-height: 600px;
 }
