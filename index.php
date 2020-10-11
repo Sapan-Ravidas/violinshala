@@ -4,6 +4,7 @@ if(isset($_SESSION['email'])){
     header('location:lession.php');
 }
 ?>
+//great project to learn php
 <!DOCTYPE html>
 <html>
     <head>
