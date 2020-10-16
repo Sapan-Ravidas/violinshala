@@ -1,14 +1,6 @@
-<div class="navbar navbar-inverse navbar-fixed-top navig">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse">
-                <span class="icon-bar"></span>                
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="index.php" class="navbar-brand logo">
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" width="100px" height="100px" id="OBJECTS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="OBJECTS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
 <path id="_x31_1" fill="#C79DD7" d="M73.05,263.49c0.13-0.46,0.03-0.9,0.02-1.33c-0.02-0.71-0.11-1.42-0.11-2.13
 	c-0.01-2.01-0.17-4.02-0.32-6.03c-0.04-0.53-0.04-1.07-0.05-1.6c-0.02-1.45-0.1-2.9-0.32-4.33c-0.06-0.38-0.06-0.77-0.08-1.12
@@ -1592,24 +1584,3 @@
 	<path fill="#AE3D63" d="M427.47,93.44c0.37,0.37,0.37,0.37,0.82-0.06C427.99,93.07,427.72,93.16,427.47,93.44z"/>
 </g>
 </svg>
-</a>
-        </div>
-        <div class="navbar-collapse collapse" id="myNavbar">
-            <ul class="nav navbar-nav navbar-right">
-                <?php
-                if(isset($_SESSION['email'])){?>
-                    <li class="nav-links"><a href="info.php"><span class="glyphicon glyphicon-book X"></span> About</a></li>
-                    <li><a href="lesson.php"><span class="glyphicon glyphicon-education"></span> Lession</a></li>
-                    <li><a href="setting.php"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>
-                    <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-                    
-                <?php }
-                else{?>
-                    <li><a href="info.php"><span class="glyphicon glyphicon-book"></span> About</a></li>
-                    <li><a href="signup.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                    <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                <?php }?>
-            </ul>
-        </div>
-    </div>
-</div>
