@@ -1,6 +1,6 @@
 ### Violinshala
 
-`Pet project for violen enthuastics`
+`Pet project for violin enthuastics`
 
 ### Setup
 Requires <b>php, mysql, apache</b> to be installed in the system.
